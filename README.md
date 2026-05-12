@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 La organización del código sigue un patrón de separación de responsabilidades para facilitar el mantenimiento y la escalabilidad del sistema:
 
@@ -38,7 +38,7 @@ socialPoint/
 
 ---
 
-## 🏗️ Arquitectura y Stack Tecnológico
+##  Arquitectura y Stack Tecnológico
 
 ### Backend: Procesamiento de Alta Disponibilidad
 
@@ -57,7 +57,7 @@ Interfaz desarrollada con **React (Vite)** enfocada en la experiencia de usuario
 
 ---
 
-## 🔄 Pipeline de Datos
+##  Pipeline de Datos
 
 1. **Ingesta:** El sistema activa procesos de scraping asíncronos basados en parámetros de búsqueda (hashtags, eventos o keywords).
 2. **Tratamiento:** Se realiza una limpieza de datos (normalización de texto) y se somete al motor de **Procesamiento de Lenguaje Natural (NLP)**.
@@ -66,7 +66,7 @@ Interfaz desarrollada con **React (Vite)** enfocada en la experiencia de usuario
 
 ---
 
-## 🛠️ Aspectos Técnicos Relevantes
+##  Aspectos Técnicos Relevantes
 
 * **Validación de Datos:** Uso estricto de **Pydantic** en el backend para asegurar que la comunicación entre el cliente y el servidor sea íntegra y tipada.
 * **Seguridad:** Implementación de **OAuth2 con Password Flow** y tokens **JWT** para el control de acceso.
