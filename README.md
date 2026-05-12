@@ -1,7 +1,3 @@
-Perfecto, aquí tienes el archivo **README.md** actualizado, integrando la estructura de directorios (árbol de carpetas) dentro del flujo de la documentación técnica para que se entienda la jerarquía del proyecto.
-
----
-
 # socialPoint 📍
 
 > **"Escuchando el pulso de la audiencia en tiempo real."**
